@@ -1,0 +1,22 @@
+{
+  "name": "mongo",
+  "version": "0.0.0",
+  "description": "\"Some mongo test\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SkalamanderKing/mongo.git"
+  },
+  "keywords": [
+    "mongotest"
+  ],
+  "author": "Fredrick Östlund",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SkalamanderKing/mongo/issues"
+  },
+  "homepage": "https://github.com/SkalamanderKing/mongo#readme"
+}
