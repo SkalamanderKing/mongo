@@ -18,5 +18,15 @@
   "bugs": {
     "url": "https://github.com/SkalamanderKing/mongo/issues"
   },
-  "homepage": "https://github.com/SkalamanderKing/mongo#readme"
+  "homepage": "https://github.com/SkalamanderKing/mongo#readme",
+  "devDependencies": {
+    "morgan": "^1.8.1"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "mongodb": "^2.2.26",
+    "pug": "^2.0.0-rc.1",
+    "socket.io": "^2.0.1"
+  }
 }
